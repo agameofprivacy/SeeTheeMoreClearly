@@ -1,0 +1,93 @@
+[
+  {
+    "id": 0,
+    "file": "dreamBabe.jpeg",
+    "question": "What is in the image?",
+    "answer1": "Lady",
+    "answer2": "Gent",
+    "skipMessage": "No Idea",
+    "correctAnswer": "1";
+  },
+  {
+    "id": 1,
+    "file": "puppies.jpeg",
+    "question": "What is in the image?",
+    "answer1": "Puppies",
+    "answer2": "Dick",
+    "skipMessage": "Gross! Skip.",
+    "correctAnswer": "1";
+  },
+  {
+    "id": 2,
+    "file": "cacti.jpg",
+    "question": "What is in the image?",
+    "answer1": "Kermit",
+    "answer2": "Alien Genitalia",
+    "skipMessage": "Plant",
+    "correctAnswer": "3";
+  },
+  {
+    "id": 3,
+    "file": "kait.png",
+    "question": "What is in the image?",
+    "answer1": "Load of Bread",
+    "answer2": "Kait",
+    "skipMessage": "Chastity Device",
+    "correctAnswer": "2";
+  },
+  {
+    "id": 4,
+    "file": "pikachu.jpg",
+    "question": "What is in the image?",
+    "answer1": "Ripe Banana",
+    "answer2": "Terrorist",
+    "skipMessage": "Pokémon",
+    "correctAnswer": "3";
+  },
+  {
+    "id": 5,
+    "file": "goldenshowerhead.jpg",
+    "question": "What is in the image?",
+    "answer1": "Golden Showerhead",
+    "answer2": "Medical Device",
+    "skipMessage": "Ancient Shrine",
+    "correctAnswer": "1";
+  },
+  {
+    "id": 6,
+    "file": "jiggly.jpg",
+    "question": "What is in the image?",
+    "answer1": "Sex Furniture",
+    "answer2": "Jiggly",
+    "skipMessage": "Something Cute",
+    "correctAnswer": "2";
+  },
+    {
+    "id": 7,
+    "file": "samuelCornhead.jpg",
+    "question": "What is in the image?",
+    "answer1": "Samuel L. Jackson",
+    "answer2": "Fudgsicle",
+    "skipMessage": "Penis",
+    "correctAnswer": "1";
+  },
+  {
+    "id": 8,
+    "file": "rubberarm.jpg",
+    "question": "What is in the image?",
+    "answer1": "French Fries",
+    "answer2": "Latex Sex Jumper",
+    "skipMessage": "Plastic Bag",
+    "correctAnswer": "2";
+  },
+  {
+    "id": 9,
+    "file": "tinder.jpg",
+    "question": "What is in the image?",
+    "answer1": "Yoga Pose",
+    "answer2": "Patron Saints",
+    "skipMessage": "Dating Profile",
+    "correctAnswer": "3";
+  },
+
+]

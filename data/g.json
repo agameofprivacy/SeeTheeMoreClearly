@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "file": "dreamBabe.jpeg",
+    "question": "What is in the image?",
+    "answer1": "Lady",
+    "answer2": "Gent",
+    "skipMessage": "No Idea",
+    "correctAnswer": "1";
+  },
+  {
+    "id": 1,
+    "file": "puppies.jpeg",
+    "question": "What is in the image?",
+    "answer1": "Puppies",
+    "answer2": "Dick",
+    "skipMessage": "Gross! Skip.",
+    "correctAnswer": "1";
+  }
+]
