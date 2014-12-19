@@ -416,26 +416,26 @@ void draw() {
           if (gameOver) {
             background(30);
             if(score >= 2 * (numOfRounds * timePerRound/1000) / 3){
-              endGameImage = loadImage("highScore.gif");
+              endGameImage = loadImage("highScore.png");
             }
             else if(score >= 1 * (numOfRounds * timePerRound/1000) / 3 && score < 2 * (numOfRounds * timePerRound/1000)){
-              endGameImage = loadImage("mediumScore.gif");
+              endGameImage = loadImage("mediumScore.png");
             }
             else{
-              endGameImage = loadImage("lowScore.gif");
+              endGameImage = loadImage("lowScore.png");
             }
             image(endGameImage, 0, 0);
-            fill(255, 255, 255, 255);
+            fill(30, 30, 30, 255);
             textAlign(CENTER, CENTER);
             textSize(32);
-            text("Game Over", displayWidth/2, displayHeight/2.5);
-            fill(205, 205, 205, 255);
+            text("Game Over", 300, displayHeight - 650);
+            fill(30, 30, 30, 255);
             textSize(20);
-            text("Press SPACE to Restart", displayWidth/2, displayHeight/2.0);
+            text("Press SPACE to Restart", 300, displayHeight - 600);
 
-            fill(205, 205, 205, 255);
+            fill(30, 30, 30, 255);
             textSize(20);
-            text("Score: " + score, displayWidth/2, displayHeight/1.6);
+            text("Score: " + score, 300, displayHeight - 550);
             // back to title screen
             
           }
